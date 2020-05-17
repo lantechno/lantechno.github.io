@@ -121,6 +121,13 @@ a:hover {
 }*/
 
 .one-third {
+    width: 31.5%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+}
+
+.one-third-contact {
     width: 48.9%;
     float: left;
     padding: 12px;
