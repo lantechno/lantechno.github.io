@@ -1,1 +1,1 @@
-# lantechno.github.io
+# boltpower.company
